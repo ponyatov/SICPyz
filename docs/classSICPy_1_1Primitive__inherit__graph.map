@@ -1,0 +1,9 @@
+<map id="SICPy.Primitive" name="SICPy.Primitive">
+<area shape="rect" id="node3" href="$classSICPy_1_1Number.html" title="floating point number " alt="" coords="47,155,157,181"/>
+<area shape="rect" id="node7" href="$classSICPy_1_1String.html" title="string " alt="" coords="182,155,281,181"/>
+<area shape="rect" id="node8" href="$classSICPy_1_1Symbol.html" title="symbol (names of variables, methods,..) " alt="" coords="305,155,414,181"/>
+<area shape="rect" id="node2" href="$classSICPy_1_1Frame.html" title="Marvin Minsky&#39;s extended frame with ordered subframes. " alt="" coords="180,5,283,32"/>
+<area shape="rect" id="node4" href="$classSICPy_1_1Integer.html" title="integer " alt="" coords="49,229,155,256"/>
+<area shape="rect" id="node5" href="$classSICPy_1_1Bin.html" title="bit stream " alt="" coords="5,304,89,331"/>
+<area shape="rect" id="node6" href="$classSICPy_1_1Hex.html" title="hexadecimal machine number " alt="" coords="113,304,203,331"/>
+</map>
